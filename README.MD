@@ -96,7 +96,7 @@ Strict TypeScript setup with modern module resolution. Environment config loaded
 
 | Step | Command | Description |
 |------|---------|-------------|
-| **1** | ```json git clone https://github.com/Hemn-Raqib-Aziz/neon-ts-playground.git ``` | Clone the repo |
+| **1** | `git clone https://github.com/Hemn-Raqib-Aziz/neon-ts-playground.git` | Clone the repo |
 | **2** | `cd neon-ts-playground && npm install` | Install dependencies |
 | **3** | Create Neon project at [neon.tech](https://neon.tech) | Configure database |
 | **4** | Add `DATABASE_URL` to `.env.development.local` | Set environment variables |
